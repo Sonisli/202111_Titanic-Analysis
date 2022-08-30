@@ -1,2 +1,4 @@
 # 202111_Titanic-Analysis
-Kaggle Practice
+- Kaggle Data Processing Practice
+- Latest Updated on: 20211115
+- Readme Edited on: 20220830
